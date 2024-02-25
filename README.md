@@ -1,3 +1,5 @@
+論文主題:Deep Unsupervised Image Hashing by Maximizing Bit Entropy
+組別:2
 * 黃芊
 --尋找論文
 * 聶怡安
